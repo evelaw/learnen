@@ -1,5 +1,5 @@
 |人体|学习用品|学校|时间|
-| <br><br><br><br><br> | <br><br><br><br> | <br><br><br><br> | <br><br><br><br> |
+| ----- | ---- | ---- | ---- |
 |foot<br>脚|pencil<br>铅笔|classroom<br>教室|time<br>时间|
 |head<br>头|book<br>书|teacher<br>老师|morning<br>早上|
 |face<br>脸|eraser<br>橡皮|student<br>学生|afternoon<br>下午|
@@ -30,7 +30,7 @@
 |waist<br>腰部|map<br>地图|word<br>单词|someday<br>有一天|
 
 |颜色|形状类|交通工具|节日|
-| <br><br><br><br><br> | <br><br><br><br> | <br><br><br><br> | <br><br><br><br> |
+| ----- | ---- | ---- | ---- |
 |red<br>红色|shape<br>形状|car<br>汽车|New year<br>新年
 |blue<br>蓝色|circle<br>圆形|bicycle<br>自行车|Spring Festival<br>春节
 |green<br>绿色|square<br>正方形|bus<br>公共汽车|Mid<br>Autumn Festival中秋节
