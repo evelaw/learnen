@@ -7,6 +7,35 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css"><!-- dark -->
+  <style>
+    /* 覆盖 Docsify 默认的内容宽度限制 */
+    .content {
+      width: 100vw !important; /* 使用100%的视口宽度 */
+      max-width: 100% !important; /* 覆盖最大宽度限制 */
+      box-sizing: border-box; /* 确保padding不会影响总宽度 */
+      padding-top: 0;
+    }
+    .markdown-section{
+      max-width: 100% !important;
+      padding-top: 10px !important;
+    }
+
+    /* 确保容器的宽度也占据100% */
+    .docsify-container {
+      width: 100vw !important;
+    }
+
+    /* 让文档标题也使用100%宽度 */
+    .markdown-section {
+      width: 100% !important;
+    }
+
+    /* 移除多余的边距 */
+    .main {
+      margin: 0 !important;
+    }
+
+  </style>
 </head>
 <body>
   <div id="app"></div>
